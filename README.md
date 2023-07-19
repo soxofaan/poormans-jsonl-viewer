@@ -35,3 +35,6 @@ only Python 3.6 or higher is required
 (the tool only uses a couple of modules from the Python standard library).
 
 Download `poormans-jsonl-viewer.py` and put it where it suits you.
+For example:
+
+    curl -O https://raw.githubusercontent.com/soxofaan/poormans-jsonl-viewer/main/poormans-jsonl-viewer.py
